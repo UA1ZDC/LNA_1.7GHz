@@ -58,6 +58,23 @@ GenerateClassCluster=0
 DocumentUniqueId=SMOGGXAE
 
 [Document2]
+DocumentPath=LNA_1.7GHz_power.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EHKHEIDV
+
+[Document3]
 DocumentPath=LNA_1.7GHz_libs\LNA_1.7GHz.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -74,7 +91,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PSGDMCAY
 
-[Document3]
+[Document4]
 DocumentPath=LNA_1.7GHz_libs\LNA_1.7GHz.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -91,7 +108,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BUIQDYVI
 
-[Document4]
+[Document5]
 DocumentPath=LNA_1.7GHz_first_stage.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -227,7 +244,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Отправить в OneNote 16
+TargetPrinter=iR-ADV C3520
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
