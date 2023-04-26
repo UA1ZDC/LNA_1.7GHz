@@ -58,6 +58,23 @@ GenerateClassCluster=0
 DocumentUniqueId=UMKGRITF
 
 [Document2]
+DocumentPath=LNA_1.7GHz_power_stage.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EMTXHRCE
+
+[Document3]
 DocumentPath=LNA_1.7GHz_main_board.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -74,7 +91,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XQVLIEAL
 
-[Document3]
+[Document4]
 DocumentPath=LNA_1.7GHz_libs\LNA_1.7GHz.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -91,7 +108,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document4]
+[Document5]
 DocumentPath=LNA_1.7GHz_libs\LNA_1.7GHz.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
