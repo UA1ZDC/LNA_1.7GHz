@@ -2,39 +2,6 @@
 FileName = LNA_1.7GHz_first_stage.GBR
 AutoAperture = True
 *************************************************************
-Generating : Board Shape
-      File : LNA_1.7GHz_first_stage.GM15
-
-    Adding Layer      : Board Shape
-
-
-Used DCodes :
-    D11
-    D65
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : LNA_1.7GHz_first_stage.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D33
-    D34
-    D35
-    D36
-    D62
-    D63
-    D64
-*************************************************************
-
-*************************************************************
 Generating : Top Solder
       File : LNA_1.7GHz_first_stage.GTS
 
@@ -115,7 +82,7 @@ Generating : Top Layer
 
 
 Used DCodes :
-    D15
+    D16
     D33
     D37
     D38
@@ -139,5 +106,37 @@ Used DCodes :
     D56
     D57
     D58
+*************************************************************
+
+*************************************************************
+Generating : Board Shape
+      File : LNA_1.7GHz_first_stage.GM37
+
+    Adding Layer      : Board Shape
+
+
+Used DCodes :
+    D65
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : LNA_1.7GHz_first_stage.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D33
+    D34
+    D35
+    D36
+    D62
+    D63
+    D64
 *************************************************************
 
