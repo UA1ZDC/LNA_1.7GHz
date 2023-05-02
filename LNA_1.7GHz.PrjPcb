@@ -75,6 +75,23 @@ GenerateClassCluster=0
 DocumentUniqueId=BUIQDYVI
 
 [Document3]
+DocumentPath=LNA_1.7GHz_first_stage_symbol.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VITYSVAH
+
+[Document4]
 DocumentPath=LNA_1.7GHz_first_stage.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -91,7 +108,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UMKGRITF
 
-[Document4]
+[Document5]
 DocumentPath=LNA_1.7GHz_first_stage.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -108,7 +125,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NQJUIDXC
 
-[Document5]
+[Document6]
 DocumentPath=LNA_1.7GHz_libs\WE-SHC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -125,7 +142,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NDHWSEEI
 
-[Document6]
+[Document7]
 DocumentPath=LNA_1.7GHz_libs\Kintex_SDR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
