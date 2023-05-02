@@ -72,7 +72,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=944b8706-a524-4e3b-b6a6-c0ddebf16650
+DocumentUniqueId=3ac70a64-dd63-4a3d-819b-7602ba941bbd
 
 [Document3]
 DocumentPath=..\LNA_1.7GHz.PrjPcb
