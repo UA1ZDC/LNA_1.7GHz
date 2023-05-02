@@ -123,7 +123,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BUIQDYVI
 
 [Document6]
 DocumentPath=LNA_1.7GHz_libs\LNA_1.7GHz.SchLib
@@ -140,7 +140,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PSGDMCAY
 
 [Document7]
 DocumentPath=LNA_1.7GHz_libs\WE-SHC.PcbLib
