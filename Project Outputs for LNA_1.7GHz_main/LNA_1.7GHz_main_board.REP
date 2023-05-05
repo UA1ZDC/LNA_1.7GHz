@@ -1,0 +1,257 @@
+*************************************************************
+FileName = LNA_1.7GHz_main_board.GBR
+AutoAperture = True
+*************************************************************
+Generating : Board Shape
+      File : LNA_1.7GHz_main_board.GM37
+
+    Adding Layer      : Board Shape
+
+
+Used DCodes :
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : LNA_1.7GHz_main_board.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D11
+    D12
+    D113
+    D114
+    D115
+    D116
+    D117
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : LNA_1.7GHz_main_board.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D20
+    D21
+    D22
+    D23
+    D26
+    D40
+    D41
+    D42
+    D43
+    D44
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : LNA_1.7GHz_main_board.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : LNA_1.7GHz_main_board.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : LNA_1.7GHz_main_board.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D41
+    D46
+    D47
+    D51
+    D52
+    D53
+    D54
+    D57
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+*************************************************************
+
+*************************************************************
+Generating : Layer 1
+      File : LNA_1.7GHz_main_board.G1
+
+    Adding Layer      : Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D41
+    D46
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+*************************************************************
+
+*************************************************************
+Generating : AGND
+      File : LNA_1.7GHz_main_board.GP1
+
+    Adding Layer      : AGND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : LNA_1.7GHz_main_board.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D27
+    D41
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+*************************************************************
+

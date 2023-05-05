@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: D:\Проекты\НИЦ Планета\LNA_1700MHz\LNA_1.7GHz\LNA_1.7GHz_main_board.PcbDoc
+RuleKind=Width|RuleName=Width_other|Scope=Board|Minimum=5.91
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.91
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
