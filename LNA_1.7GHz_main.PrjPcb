@@ -222,38 +222,34 @@ DocumentPath=Project Outputs for LNA_1.7GHz_main\LNA_1.7GHz_main_board.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for LNA_1.7GHz_main\LNA_1.7GHz_main_board.GM37
-DItemRevisionGUID=
-
-[GeneratedDocument9]
 DocumentPath=Project Outputs for LNA_1.7GHz_main\LNA_1.7GHz_main_board.GP1
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for LNA_1.7GHz_main\LNA_1.7GHz_main_board.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for LNA_1.7GHz_main\LNA_1.7GHz_main_board.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for LNA_1.7GHz_main\LNA_1.7GHz_main_board.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for LNA_1.7GHz_main\LNA_1.7GHz_main_board.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for LNA_1.7GHz_main\LNA_1.7GHz_main_board.REP
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for LNA_1.7GHz_main\LNA_1.7GHz_main_board.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for LNA_1.7GHz_main\LNA_1.7GHz_main_board.TXT
 DItemRevisionGUID=
 
@@ -376,7 +372,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Отправить в OneNote 16
+TargetPrinter=iR-ADV C3520
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
